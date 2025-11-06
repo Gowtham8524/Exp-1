@@ -5,20 +5,11 @@
 To draw the UML diagram for atm & banking system.
 
 # SRS (Procedure):
-Create the following diagrams in StarUML:
-
-◉ Use Case Diagram
-
-◉ Class Diagram
-
-◉ Activity Diagram
-
-◉ Package Diagram
-
-◉ Communication Diagram
-
-◉ Sequence Diagram
-
+Identify main actors like Customer, ATM Machine, and Bank Server.
+List key functions such as Withdraw Cash, Deposit, and Check Balance.
+Draw the Use Case Diagram linking actors with their actions.
+Create Class, Sequence, package, communication and Activity Diagrams to show structure and flow.
+Verify relationships and ensure the diagram shows the complete ATM process clearly.
 # DIAGRAMS:
 
 ◉ Use Case Diagram:
